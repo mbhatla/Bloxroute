@@ -56,7 +56,7 @@ _git clone https://github.com/mbhatla/Bloxroute.git_
 
 **7. Configuration**
 
- Change directory to Bloxroute and open config.json and edit it with your favorite editor, you can change the defaults to name of the queue you created and the log file name you desire:
+ Change directory to Bloxroute within the repo and open config.json and edit it with your favorite editor, you can change the defaults to name of the queue you created and the log file name you desire:
 
 _{_
 
