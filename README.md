@@ -60,9 +60,9 @@ _git clone https://github.com/mbhatla/Bloxroute.git_
 
 _{_
 
-    _"queueName": "BloxRouteQueue.fifo",_
+    "queueName": "BloxRouteQueue.fifo",
 
-    _"logFileName": "Output.log"_
+    "logFileName": "Output.log"
     
 _}_
 
