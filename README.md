@@ -1,7 +1,7 @@
 # Bloxroute
 Take Home Assignment
 
-Steps to Install and Run the Client and Server Application on your Machine. **Steps 1-8 are needed only the first time you are running this project on your machine.**
+Steps to Install and Run the Client and Server Application on your Machine. 
 
 **1. Install Golang**
 
